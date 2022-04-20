@@ -37,7 +37,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src=""></a>
 <a href="https://www.linkedin.com/in/ricky-dong-b66237220/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ricky%20Lin%20Dong-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/rdong9/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rdong9__-blue?style=flat-square&logo=instagram"></a>
 <a href="rdong46@gatech.edu"><img alt="Email" src="https://img.shields.io/badge/Email-rdong46@gatech.edy-blue?style=flat-square&logo=gmail"></a>
