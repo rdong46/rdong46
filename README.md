@@ -8,11 +8,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 
+- 🤔 &nbsp; I am interested in fullstack development, robotics, AI, and machine learning.
 - 🎓 &nbsp; Current student at the Georgia Institute of Technology
-- 💼 &nbsp; 
-- 🌱 &nbsp; 
-- ✍️ &nbsp; 
+- 🌱 &nbsp; I am currently learning frontend and backend development.
+- ✍️ &nbsp; I often spend my free time playing volleyball, watching anime, and playing videogames.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
