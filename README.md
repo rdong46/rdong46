@@ -26,7 +26,7 @@
 <br/>
 
 <a href="https://github.com/rdong46">
-  <-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdong46&theme=buefy&show_icons=true" /> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdong46&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdong46&theme=buefy&layout=compact" />
 </a>
 
