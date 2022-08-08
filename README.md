@@ -1,11 +1,5 @@
 <h2> Hey there! I'm Ricky.</h2>
 
-<p align="center">
-    <img src="https://badges.pufler.dev/visits/rdong46/rdong46"/> 
-    <img src="https://badges.pufler.dev/commits/monthly/rdong46" />
-    <img src="https://badges.pufler.dev/repos/rdong46"/>
-</p>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I am interested in fullstack development, robotics, AI, and machine learning.
