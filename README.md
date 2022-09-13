@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am interested in fullstack development, robotics, AI, and machine learning.
+- 🤔 &nbsp; I am interested in CS :).
 - 🎓 &nbsp; Current student at the Georgia Institute of Technology
 - 🌱 &nbsp; I am currently learning frontend and backend development.
 - ✍️ &nbsp; I often spend my free time playing volleyball, watching anime, and playing videogames.
